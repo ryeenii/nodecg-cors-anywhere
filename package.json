@@ -1,0 +1,30 @@
+{
+  "name": "nodecg-cors-anywhere",
+  "version": "0.0.1",
+  "description": "A Simple NodeCG Extension that runs a CORS Anywhere server on startup.",
+  "homepage": "",
+  "author": {
+    "name": "reenii",
+    "email": "reenii@ree.nii",
+    "url": ""
+  },
+  "files": [
+    "dashboard",
+    "graphics",
+    "extension.js",
+    "extension"
+  ],
+  "keywords": [
+    "",
+    "nodecg-bundle"
+  ],
+  "dependencies": {
+    "http-proxy": "^1.18.1",
+    "proxy-from-env": "0.0.1"
+  },
+  "nodecg": {
+    "compatibleRange": "^1.5.0"
+  },
+  "repository": "https://github.com/ryeenii/nodecg-cors-anywhere.git",
+  "license": "MIT"
+}
