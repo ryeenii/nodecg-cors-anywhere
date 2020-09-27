@@ -1,5 +1,5 @@
 # nodecg-cors-anywhere
-A Simple NodeCG Extension that runs a CORS Anywhere server on startup.
+A Simple NodeCG Extension that runs a [CORS Anywhere](https://github.com/Rob--W/cors-anywhere) server on startup.
 
 
 # Installation
